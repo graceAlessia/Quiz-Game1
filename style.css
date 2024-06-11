@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #001e4d;
+    background: #9bc1ff;
 }
 .theme{
     background: #fff;
@@ -27,7 +27,7 @@ body{
 }
 .quiz h2{
     font-size: 18px; 
-    color: #001e4d;
+    color: #9bc1ff;
     font-weight: 25px;
 }
 .btn{
@@ -52,7 +52,7 @@ body{
     cursor: no-drop;
 }
 #next-btn{
-    background: #001e4d;
+    background: #9bc1ff;
     color: #fff;
     font-weight: 500;
     width: 150px;
